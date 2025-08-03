@@ -29,8 +29,8 @@
 
 > Accuracy over 10 epochs:
 
-![Accuracy Graph](https://github.com/Bereket-Belachew/Image-Processing-Cats-Or-Dogs/blob/44a0615ecb9ec591c16a6b1cdccd94a2ffef9c69/Screenshot%202025-08-03%20at%2016.45.13.png)
-
+![Accuracy Data](https://github.com/Bereket-Belachew/Image-Processing-Cats-Or-Dogs/blob/44a0615ecb9ec591c16a6b1cdccd94a2ffef9c69/Screenshot%202025-08-03%20at%2016.45.13.png)
+![Accuracy Graph](https://github.com/Bereket-Belachew/Image-Processing-Cats-Or-Dogs/blob/8c5dfa59d8c800993c359336b27dff8c1389c73b/Screenshot%202025-08-03%20at%2016.44.51.png)
 ---
 
 ## 🛠️ How to Run
