@@ -29,7 +29,7 @@
 
 > Accuracy over 10 epochs:
 
-![Accuracy Graph](PLACEHOLDER_FOR_ACCURACY_GRAPH)
+![Accuracy Graph](https://github.com/Bereket-Belachew/Image-Processing-Cats-Or-Dogs/blob/44a0615ecb9ec591c16a6b1cdccd94a2ffef9c69/Screenshot%202025-08-03%20at%2016.45.13.png)
 
 ---
 
