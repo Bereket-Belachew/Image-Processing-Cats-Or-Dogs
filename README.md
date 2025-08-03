@@ -5,14 +5,29 @@
 
 ## 📊 Project Structure
 
-- **Image Loading & Labeling**: All images are read and labeled (`0` for cats, `1` for dogs).
-- **Data Augmentation**: Applied using `ImageDataGenerator`.
-- **Model Architecture**: Simple CNN with 3 convolutional layers.
-- **Training**: Model is trained for 10 epochs with data generators.
-- **Visualization**: Example images and accuracy graphs are plotted.
+- Image Loading & Labeling**: All images are read and labeled (`0` for cats, `1` for dogs).
+- Data Augmentation: Applied using `ImageDataGenerator`.
+- Model Architecture: Simple CNN with 3 convolutional layers.
+- Training: Model is trained for 10 epochs with data generators.
+- Visualization: Example images and accuracy graphs are plotted.
+
+---
+# 🐶 Cats vs 🐱 Dogs Image Classifier with CNN (TensorFlow & Keras)
+
+This is a deep learning project that uses Convolutional Neural Networks (CNNs) to classify images as either **cats** or **dogs**. The model is built using **TensorFlow**, **Keras**, and **Matplotlib**, and trained on a labeled dataset of pet images.
 
 ---
 
+## 📁 Dataset
+
+You can download the image dataset from Kaggle:
+
+👉 **[Cats and Dogs Image Classification – by Samuel Cortinhas](https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification)**
+
+> After downloading, extract the contents and place the `archive/` folder inside your project directory:
+
+
+- One More thing: Don't forget to change the location of the basepath variable to the exact location of where you saved the the Dog and Cat Archive file
 ## 🖼️ Sample Output Images
 
 > 🐶 Dogs Dataset Preview (25 random images):
