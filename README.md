@@ -17,7 +17,7 @@
 
 > 🐶 Dogs Dataset Preview (25 random images):
 
-![Dogs Preview](PLACEHOLDER_FOR_DOGS_IMAGE)
+![Dogs Preview](https://github.com/Bereket-Belachew/Image-Processing-Cats-Or-Dogs/blob/2d014b213e6da818d13780595ac2afa27406bb9e/Screenshot%202025-08-03%20at%2016.43.29.png)
 
 > 🐱 Cats Dataset Preview (25 random images):
 
